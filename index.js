@@ -21,7 +21,7 @@ buttonAdd.addEventListener("click", function(){
         span.innerHTML = "\u00d7";
         li.appendChild(span);
     }
- // Reseting input value
+ // Reset input value
     inputBox.value = "";
     saveData();
 
