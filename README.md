@@ -1,7 +1,6 @@
 # Simple to-do app created using HTML, CSS, and JavaScript
 
-This is a small exercise project mostly for learning JavaScript and practicing DOM manipulation and Event delegation in the JavaScript programming language.
-
+This project is designed as a hands-on exercise to learn and practice JavaScript, focusing on DOM manipulation and event delegation. It provides a practical way to enhance your JavaScript skills through real-world application.
 
 ## Features
 
